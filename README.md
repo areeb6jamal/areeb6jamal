@@ -1,7 +1,7 @@
 ### Hey there 👋 I'm Areeb!
 ### Welcome to my Github!
 
-### I am a 2nd year Computer Engineering and Management student at McMaster University!
+### I am a 3rd year Computer Engineering and Management student at McMaster University!
 
 <!--
 **areeb6jamal/areeb6jamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

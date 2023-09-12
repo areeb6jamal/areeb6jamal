@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 My goals for 2023 are to further my understanding of computer hardware along with softwares like React for future projects!
 - 📫 Feel free to contact me as I love networking and learning from others: 
 [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
-- ⚡ Fun fact: I love meeting new people and learning new things.
+- ⚡ Fun fact: I have over 4000 hours on the video game called Rocket League and I used to be top 100 in the world at one point!
 
 
 [1]: https://www.linkedin.com/in/areebjamal/

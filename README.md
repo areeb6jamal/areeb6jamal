@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I just published my new portfolio website! I am very happy that the project aligned with my vision of it. Check it out at: https://areebjamalportfolio.netlify.app/
-- 🌱 My goals for 2024 are to further my understanding of computer hardware, and to further develop my Verilog and SystemVerilog skills!
+- 🌱 My goals for 2024 are to further my understanding of computer hardware, along with Verilog and SystemVerilog skills!
 - 📫 Feel free to contact me as I love networking and learning from others: 
 [<img align="center" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
 - ⚡ Fun fact: I have over 4000 hours on the video game called Rocket League and I used to be top 100 in the world at one point!
